@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 datasets/
 env/
+10. Introduction to Artificial Neural Networks with Keras/checkpoint
+*.h5
+*.ckpt.*
