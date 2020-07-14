@@ -5,3 +5,4 @@ env/
 10. Introduction to Artificial Neural Networks with Keras/checkpoint
 *.h5
 *.ckpt.*
+*/my_logs
